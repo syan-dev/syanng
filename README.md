@@ -8,5 +8,3 @@ My dream is to become a solo entrepreneur. I'm living in France, building my pro
 * Email: syan.vn@gmail.com
 * Blog: [syan.dev](https://syan.dev)
 
-
-![syan.dev's Stats](https://streak-stats.demolab.com/?user=syan-dev)
